@@ -22,11 +22,11 @@ Input of choice will be taken using Keypad.
 
 The selected object will be displayed over GLCD in motion, and direction of motion will be  from right to left.
 
-## Working Demonstration
+## Working Demonstration:
 
 [![Working Demonstration](https://github.com/mr-ravin/Wipro-UTLP-MovingObjectsOnGLCD/blob/master/motion.gif)](https://www.youtube.com/watch?v=HtBJgZjZE1E&feature=youtu.be)
 
-### Other Cool Stuffs
+### Other Cool Stuff:
 
 Developing codes to plot Flags like Designs over GLCD.
 
@@ -34,10 +34,10 @@ Developing codes to plot Flags like Designs over GLCD.
 
 [![Flag Design](https://github.com/mr-ravin/Wipro-UTLP-MovingObjectsOnGLCD/blob/master/Colour_Control.jpg)](https://github.com/mr-ravin/Wipro-UTLP-MovingObjectsOnGLCD/blob/master/Colour_Control.jpg)
 
-#### Note: This Project can only be used freely for Academic Purposes after providing citation or deserved credits to this work. For other purposes, Permission is required from Mr. Ravin Kumar ,  Or any of the contributors.
+#### Note: This Project can only be used freely for Academic Purposes after providing citation or deserved credits to this work. For other purposes, Permission is required from Mr. Ravin Kumar, Or any of the contributors listed below.
 #### Email_id: mr.ravin_kumar@hotmail.com .
 
-### Other Contributors
+### Other Contributors:
 - Megha Sharma.
 - [Ravin Kumar.](https://www.linkedin.com/in/ravinkumar21/)
 - [Shikhar Kansal.](https://www.linkedin.com/in/shikharkansal02/)
