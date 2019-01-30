@@ -7,7 +7,7 @@ MOVING OBJECTS ON GLCD,DISPLAYING CHOICE ON CLCD AND TAKING CHOICE FROM USER. ov
 Project Youtube Link: [https://www.youtube.com/watch?v=HtBJgZjZE1E&feature=youtu.be](https://www.youtube.com/watch?v=HtBJgZjZE1E&feature=youtu.be)
 
 [![UTLP TOOLKIT](https://github.com/mr-ravin/Wipro-UTLP-MovingObjectsOnGLCD/blob/master/Colour_Control.jpg)](https://github.com/mr-ravin/Wipro-UTLP-MovingObjectsOnGLCD/blob/master/Colour_Control.jpg)
-Figure 1: ddemonstrate the UTLP Wipro Mission 10X Tool Kit.
+Figure 1: demonstrate the UTLP Wipro Mission 10X Tool Kit.
 
 ### Project Details:
 User will choose one of the following choices, displayed over CLCD.
