@@ -34,10 +34,9 @@ Developing codes to plot Flags like Designs over GLCD.
 
 [![Flag Design](https://github.com/mr-ravin/Wipro-UTLP-MovingObjectsOnGLCD/blob/master/Colour_Control.jpg)](https://github.com/mr-ravin/Wipro-UTLP-MovingObjectsOnGLCD/blob/master/Colour_Control.jpg)
 
-#### Note: This Project can only be used freely after providing citation or deserved credits to this work. For other purposes, Permission is required from Mr. Ravin Kumar, Or any of the contributors listed below.
-#### Email_id: mr.ravin_kumar@hotmail.com .
-
 ### Other Contributors:
 - Megha Sharma.
-- [Ravin Kumar.](https://www.linkedin.com/in/ravinkumar21/)
+- [Ravin Kumar.](https://mr-ravin.github.io)
 - [Shikhar Kansal.](https://www.linkedin.com/in/shikharkansal02/)
+
+#### Note: This work can be used freely for academic research work and individual non-commercial projects, please do provide citation and/or deserved credits to this work. For Industrial and commercial use permission is required from the Author.
