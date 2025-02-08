@@ -3,7 +3,7 @@
 ### Objective:
 Write a program in C language for- MOVING OBJECTS ON GLCD,DISPLAYING CHOICE ON CLCD AND TAKING CHOICE FROM USER. over WIPRO MISSION 10X UTLP KIT.
 
-##### Project Youtube Link: [https://www.youtube.com/watch?v=HtBJgZjZE1E&feature=youtu.be](https://www.youtube.com/watch?v=HtBJgZjZE1E&feature=youtu.be)
+##### Project Youtube Link: [https://www.youtube.com/watch?v=HtBJgZjZE1E](https://www.youtube.com/watch?v=HtBJgZjZE1E)
 
 [![UTLP TOOLKIT](https://github.com/mr-ravin/Wipro-UTLP-MovingObjectsOnGLCD/blob/master/Colour_Control.jpg)](https://github.com/mr-ravin/Wipro-UTLP-MovingObjectsOnGLCD/blob/master/Colour_Control.jpg)
 Figure 1: demonstrate the UTLP Wipro Mission 10X Tool Kit.
