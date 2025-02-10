@@ -11,11 +11,11 @@ Figure 1: demonstrate the UTLP Wipro Mission 10X Tool Kit.
 ### Project Details:
 User will choose one of the following choices, displayed over CLCD.
 
-- Square
+- Square.
 
-- Rectange
+- Rectange.
 
-- Triangle
+- Triangle.
 
 Input of choice will be taken using Keypad.
 
@@ -38,7 +38,7 @@ Developing codes to plot Flags like Designs over GLCD.
 ### Other Contributors:
 - Megha Sharma.
 - [Ravin Kumar.](https://mr-ravin.github.io)
-- Shikhar Kansal
+- Shikhar Kansal.
 
 ##### Wipro Mission 10x UTLP Training Certificate:
 [![UTLP TOOLKIT](https://github.com/mr-ravin/Wipro-UTLP-MovingObjectsOnGLCD/blob/master/Certificate-WiproUTLP.jpg)](https://github.com/mr-ravin/Wipro-UTLP-MovingObjectsOnGLCD/blob/master/Certificate-WiproUTLP.jpg)
